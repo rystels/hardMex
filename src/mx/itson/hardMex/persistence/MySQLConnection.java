@@ -1,7 +1,7 @@
 /*
  * 
  */
-package mx.itson.hardMmex.persistence;
+package mx.itson.hardMex.persistence;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
